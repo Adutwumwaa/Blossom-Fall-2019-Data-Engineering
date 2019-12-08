@@ -1,5 +1,5 @@
 # Blossom-Fall-2019-Data-Engineering
-This repository contains all labs and project work pertaining to the Data Engineering Program at Blossom Academy
+This repository contains all project work pertaining to the Data Engineering Program at Blossom Academy
 
 # Project 1: Simple ETL pipleine 
 Downloaded data from s3 bucket.
@@ -15,9 +15,9 @@ This project used the following packages:
 ```pyarrow (pip install pyarrow) ```
 
 # Project 2 : Batch Processing For Data Mining.
-This project investigates top keywords companies within various cities in the US want to see in the resume of data science candidates. We used PySpark as our data processing frame work in this project. The project demonstrated the following:
+This project investigates top keywords companies within various cities in the USA want to see in the resumes of data science candidates. We used PySpark as our data processing frame work in this project. The project demonstrated the following:
 
-Loading data from s3 bucket,reading and joining datasets with pyspark.
+Loading data from an s3 bucket,reading and joining datasets with pyspark.
 Writing a function to generate n-grams (unigram and bigram) from a given text description
 Writing a function to check frequency count of a given ngram in a column.
 Using matplotlib for simple visualization to compare datascience jobs in two cities
